@@ -5,10 +5,10 @@ import PropTypes from "prop-types";
 import { connect } from 'react-redux';
 import { allUsers } from '../../actions/github';
 
-const Users = ({ loading, users, allUsers}) => {
+const Users = ({ loading, users, allUsers }) => {
   useEffect(() => {
     allUsers();
-  }, []);
+  }, [allUsers]);
 
   const userStyle = {
     display: "grid",
