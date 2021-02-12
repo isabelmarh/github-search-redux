@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-search-redux/static/css/main.059f3590.chunk.css",
+    "main.js": "/github-search-redux/static/js/main.56e0c1f6.chunk.js",
+    "main.js.map": "/github-search-redux/static/js/main.56e0c1f6.chunk.js.map",
+    "runtime-main.js": "/github-search-redux/static/js/runtime-main.4427970c.js",
+    "runtime-main.js.map": "/github-search-redux/static/js/runtime-main.4427970c.js.map",
+    "static/js/2.b8b68552.chunk.js": "/github-search-redux/static/js/2.b8b68552.chunk.js",
+    "static/js/2.b8b68552.chunk.js.map": "/github-search-redux/static/js/2.b8b68552.chunk.js.map",
+    "static/js/3.3f40834f.chunk.js": "/github-search-redux/static/js/3.3f40834f.chunk.js",
+    "static/js/3.3f40834f.chunk.js.map": "/github-search-redux/static/js/3.3f40834f.chunk.js.map",
+    "index.html": "/github-search-redux/index.html",
+    "static/css/main.059f3590.chunk.css.map": "/github-search-redux/static/css/main.059f3590.chunk.css.map",
+    "static/js/2.b8b68552.chunk.js.LICENSE.txt": "/github-search-redux/static/js/2.b8b68552.chunk.js.LICENSE.txt",
+    "static/media/Spinner.6ad68e6f.gif": "/github-search-redux/static/media/Spinner.6ad68e6f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4427970c.js",
+    "static/js/2.b8b68552.chunk.js",
+    "static/css/main.059f3590.chunk.css",
+    "static/js/main.56e0c1f6.chunk.js"
+  ]
+}
